@@ -54,7 +54,7 @@ function LogInPage(props) {
     try {
       axios
         .post(
-          `http://78.138.31.10/api/Account/login
+          `http://app.o2rintelligence.com:90/api/Account/login
         `,
           userObj,
           {
