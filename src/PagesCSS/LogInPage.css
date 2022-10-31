@@ -1,0 +1,36 @@
+.InputName {
+  /* background-color: #282c34;
+  min-height: 100vh;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white; */
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 300px;
+  height: 50px;
+}
+.InputPassword {
+  /* background-color: #282c34;
+    min-height: 100vh;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white; */
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 300px;
+  height: 50px;
+}
+.CenterAllPage {
+  /* background-color: #282c34; */
+  min-height: 100vh;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  /* width: 300px; */
+  /* height: 50px; */
+}
