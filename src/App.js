@@ -31,7 +31,7 @@ import UsersTableBIProjectConfigurationTrafficSource from "./NewPages/UsersTable
 import UsersTableBIProjectConfigurationADV from "./NewPages/UsersTableBIProjectConfigurationComponents/UsersTableBIProjectConfigurationADV";
 import UsersTableSeatManagemntTable from "./NewPages/UsersTableSeatManagemntComponents/UsersTableSeatManagemntTable";
 
-//hi 6-1
+//hi 6-11
 // For Shrat
 // export const MyUrl = "https://api.o2rintelligence.com"; //https://localhost:7006 //http://api.o2rintelligence.com
 // export const CallUrlsApi = "https://apinewbi.o2rintelligence.com"; // "https://apinewbi.o2rintelligence.com"; //`https://app.o2rintelligence.com`;
